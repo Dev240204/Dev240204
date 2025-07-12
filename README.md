@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Developing Web and Mobile App software solutions integrated with Modern AI features<br><br>👯 I’m looking to collaborate on<br>Full-Stack Projects Regarding AI/ML integration with Web Application<br><br>🌱 I’m currently learning<br>Mobile Application development and Advanced React Patterns<br><br>💬 Ask me about<br>Best Practice in Full-Stack Application using modern Technologies<br><br>⚡ Fun fact<br>Exploring new Places all the time
+🔭 I’m currently working on<br>Developing Web and Mobile App software solutions integrated with Modern AI features<br><br>👯 I’m looking to collaborate on<br>Full-Stack Projects Regarding AI/ML integration with Web Application<br><br>🌱 I’m currently learning<br>Advanced Agentic AI workflows<br><br>💬 Ask me about<br>Best Practice in Full-Stack Application using modern Technologies<br><br>⚡ Fun fact<br>Exploring new Places all the time
 
 
 # 💻 Tech Stack:
